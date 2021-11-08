@@ -6,21 +6,21 @@
 
 ##Results
 
-![image](resources/originaltime(2018).png)
+![image](Resources/Originaltime(2018).png)
 
-![image](resources/originaltime(2017).png)
+![image](Resources/originaltime(2017).png)
 
-![image](resources/VBA_Challenge_2017.png)
+![image](Resources/VBA_Challenge_2017.png)
 
-![image](resources/VBA_Challenge_2018.png)
+![image](Resources/VBA_Challenge_2018.png)
 
 - For our code run time, we noticed that the refactored code ran 0.56 sec faster than our original for the year of 2018. In the year of 2017 the refactored ran 0.40 sec faster than our original code.
 
-![image](resources/stocks(2017).png)
+![image](Resources/stocks(2017).png)
 
 - The Wall Street stocks were doing good in the year of 2017. From our data, we can see an increase in most of the stocks while only one stock was dropping.
 
-![image](resources/stocks(2018).png)
+![image](Resources/stocks(2018).png)
 
 - For our stock analysis in 2018, we see a drop in majority of the stocks while two stocks seem to increase during this time.
 
